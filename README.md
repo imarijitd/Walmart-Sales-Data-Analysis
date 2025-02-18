@@ -8,6 +8,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 #### 1. Setting Up the Environment
 Tools Used: Visual Studio Code (VS Code), Python, SQL (MS SQL Server)
+
 Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
 #### 2. Download Walmart Sales Data from Kaggle
