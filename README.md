@@ -8,7 +8,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Steps - 
 
 ### 1. Setting Up the Environment
-Tools Used: VS Code, Python, SQL (MS SQL Server), MS Excel
+Tools Used: VS Code, Python, Jupyter Notebook, SQL (MS SQL Server), MS Excel
 
 Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
